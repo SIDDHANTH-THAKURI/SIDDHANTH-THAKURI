@@ -1,16 +1,158 @@
-## Hi there 👋
+# 👋 Hi, I’m Siddhanth Thakuri  
 
-<!--
-**SIDDHANTH-THAKURI/SIDDHANTH-THAKURI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Full-Stack & AI Applications | Ex-Accenture | MSc Computer Science**  
+🌏 Based in Sydney, Australia | Passionate about **building impactful, scalable, and intelligent systems**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Pursuing **Master of Computer Science (Machine Learning & Big Data)** at **University of Wollongong**  
+- 🏢 Former **Software Developer @ Accenture**, delivering enterprise-scale applications on Azure  
+- 🤖 Experienced in building **AI-powered applications**, integrating **LLMs & deep learning models** with full-stack apps  
+- 🌟 Problem-solver with **280+ LeetCode challenges solved**  
+
+---
+
+## 🖥️ Interactive Terminal  
+```bash
+> whoami  
+Siddhanth Thakuri | Software Engineer | AI & Full-Stack Developer  
+
+> skills --list  
+Python, JavaScript/TypeScript, .NET Core, React, FastAPI, Node.js, C#, SQL, Azure  
+
+> projects --highlight  
+AI Drug Interaction Portal
+```
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### 💻 Software Developer – Accenture (2021–2023)
+
+🔹 Delivered enterprise-scale applications using C#, ASP.NET Core, and React.js
+
+🔹 Optimized MS SQL Server performance, reducing query times & boosting responsiveness
+
+🔹 Designed & integrated REST APIs to automate data exchange and improve efficiency
+
+🔹 Collaborated in Agile/SCRUM teams, performing 120+ code reviews (reduced defects by 18%)
+
+🔹 Supported Azure deployments, streamlining release processes & minimizing downtime
+
+--
+
+## 📌 Highlight Projects  
+
+### 🧬 [AI-Powered Personalized Drug Interaction & Doctor Portal](https://github.com/Team-DDI-CSIT998/Personalised_DDI_Checker)  
+🔹 Built a **clinical decision support system** with doctor portals & AI-generated medical summaries  
+🔹 Integrated **Deep Learning + LLMs** for drug interaction prediction & patient suitability checks  
+🔹 Live Demo: [MedMatch](https://medmatch-frontend.onrender.com)  
+
+---
+
+### 🏦 Commonwealth Bank Introduction to Data Science Job Simulation (2025)  
+🔹 Completed a job simulation focused on **data management and data science practices**  
+🔹 Built **data engineering pipelines** to aggregate and extract insights for decision-making  
+🔹 Applied **data anonymization techniques** to ensure privacy compliance  
+🔹 Designed **structured databases** and proposed analytical approaches for social media datasets  
+
+---
+
+### 📊 Deloitte Tech Simulation (2024)  
+🔹 Developed interactive **data dashboards** & analytical insights in Tableau  
+🔹 Applied problem-solving & visualization for real-world business datasets  
+
+---
+
+### 💡 Other Projects  
+- Full-stack apps with **React, Next.js, FastAPI, Node.js**  
+- AI/ML experiments with **Transformers & LLMs (Mistral, GPT-4, DeepSeek R1)**  
+- [More projects here →](https://github.com/SIDDHANTH-THAKURI)  
+
+---
+
+## 🎓 Education & Certifications
+
+#### 🎓 Master of Computer Science (Machine Learning & Big Data) – University of Wollongong (2023–2025)
+
+#### 🎓 Bachelor of Aeronautical Engineering – MLR Institute of Technology, India (2017–2021)
+
+---
+
+## 📈 GitHub Stats
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDDHANTH-THAKURI&show_icons=true&theme=tokyonight" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHANTH-THAKURI&layout=compact&theme=tokyonight" height="150"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHANTH-THAKURI&theme=tokyonight" /> 
+</p>
+
+---
+
+## 🏅 Achievements
+- 🥇 **Accenture Unsung Hero Award (2022)**  
+- 📜 **Microsoft Certified: Security, Compliance, and Identity Fundamentals**  
+- 🎯 Global participant in **CodinGame Spring Challenge 2025**
+- 📜 **Python Crash Course by Google** (Coursera)
+
+### 📚 Problem Solving (LeetCode)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/siddhanththakuri?theme=dark&ext=heatmap" height="250"/>
+</p>
+
+---
+
+##⚡ Fun Facts
+
+🚀 Built my first deep learning model on a potato laptop 🥔💻
+
+✈️ Aviation enthusiast (Bachelor’s in Aeronautical Engineering)
+
+🤖 Can explain Transformers (the ML ones… and the robots if you insist)
+
+---
+
+## 🌐 Let’s Connect
+<p align="center">
+  <a href="mailto:thakurisiddhanth1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/siddhanththakuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/siddhanththakuri/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/SIDDHANTH-THAKURI"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 🚀 Recruiter’s Call to Action
+
+💡 Looking for an engineer who blends AI, full-stack development, and enterprise experience?
+📬 Let’s connect!
+
+---
+
+<p align="center">
+  ✨ *“Turning ideas into code, and code into impact.”* ✨  
+  <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SIDDHANTH-THAKURI&left_color=black&right_color=purple" />
+</p>
+
+
