@@ -6,24 +6,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing **Master of Computer Science (Machine Learning & Big Data)** at **University of Wollongong**  
+- 🎓 Graduated in **Master of Computer Science (Machine Learning & Big Data)** at **University of Wollongong**  
 - 🏢 Former **Software Developer @ Accenture**, delivering enterprise-scale applications on Azure  
 - 🤖 Experienced in building **AI-powered applications**, integrating **LLMs & deep learning models** with full-stack apps  
 - 🌟 Problem-solver with **280+ LeetCode challenges solved**  
-
----
-
-## 🖥️ Interactive Terminal  
-```bash
-> whoami  
-Siddhanth Thakuri | Software Engineer | AI & Full-Stack Developer  
-
-> skills --list  
-Python, JavaScript/TypeScript, .NET Core, React, FastAPI, Node.js, C#, SQL, Azure  
-
-> projects --highlight  
-AI Drug Interaction Portal
-```
 
 ---
 
@@ -67,20 +53,6 @@ AI Drug Interaction Portal
 🔹 Built a **clinical decision support system** with doctor portals & AI-generated medical summaries  
 🔹 Integrated **Deep Learning + LLMs** for drug interaction prediction & patient suitability checks  
 🔹 Live Demo: [MedMatch](https://medmatch-frontend.onrender.com)  
-
----
-
-### 🏦 Commonwealth Bank Introduction to Data Science Job Simulation (2025)  
-🔹 Completed a job simulation focused on **data management and data science practices**  
-🔹 Built **data engineering pipelines** to aggregate and extract insights for decision-making  
-🔹 Applied **data anonymization techniques** to ensure privacy compliance  
-🔹 Designed **structured databases** and proposed analytical approaches for social media datasets  
-
----
-
-### 📊 Deloitte Tech Simulation (2024)  
-🔹 Developed interactive **data dashboards** & analytical insights in Tableau  
-🔹 Applied problem-solving & visualization for real-world business datasets  
 
 ---
 
