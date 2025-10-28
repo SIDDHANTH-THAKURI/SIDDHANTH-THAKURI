@@ -49,17 +49,29 @@
 
 ## 📌 Highlight Projects  
 
-### 🧬 [AI-Powered Personalized Drug Interaction & Doctor Portal](https://github.com/Team-DDI-CSIT998/Personalised_DDI_Checker)  
-🔹 Built a **clinical decision support system** with doctor portals & AI-generated medical summaries  
-🔹 Integrated **Deep Learning + LLMs** for drug interaction prediction & patient suitability checks  
-🔹 Live Demo: [MedMatch](https://medmatch-frontend.onrender.com)  
+### 🧬 DrugNexusAI - AI-Powered Clinical Decision Support System
+🔹 Built a production-ready CDSS with dual portals (doctor & patient) and intelligent AI chatbot with 9+ LLM fallback models
+
+🔹 Architected microservices backend (Node.js + FastAPI) with ChemBERTa-based DDI detection & Stanford AI deidentification
+
+🔹 Deployed on multi-cloud infrastructure (Vercel + AWS App Runner + Render) with MongoDB Atlas & JWT authentication
+
+🔹 Live Demo: [https://drugnexusai.app](https://drugnexusai.app/)
 
 ---
 
 ### 💡 Other Projects  
 - Full-stack apps with **React, Next.js, FastAPI, Node.js**  
 - AI/ML experiments with **Transformers & LLMs (Mistral, GPT-4, DeepSeek R1)**  
-- [More projects here →](https://github.com/SIDDHANTH-THAKURI)  
+- [More projects repo, here →](https://github.com/SIDDHANTH-THAKURI)
+  
+#### 💡 Live Links:
+   
+- https://demon-slayer-focus.vercel.app/
+  
+- https://algo-viz-pi.vercel.app/
+  
+- https://siddhanththakuri.com/ 
 
 ---
 
