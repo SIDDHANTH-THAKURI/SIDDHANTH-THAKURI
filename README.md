@@ -2,7 +2,7 @@
 
 <img src="./header.svg" width="100%" alt="Siddhanth Thakuri"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+products+%F0%9F%A4%96;Full-Stack+%7C+React+%2B+Node+%2B+.NET+%2B+Python;MSc+Computer+Science+%40+UOW+%F0%9F%8E%93;280%2B+LeetCode+Problems+Solved+%F0%9F%9A%80;Open+to+developer+roles+in+Australia+%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=650&lines=Building+AI-powered+products+%F0%9F%A4%96;Full-Stack+%7C+React+%2B+Node+%2B+.NET+%2B+Python;MSc+Computer+Science+%40+UOW+%F0%9F%8E%93;280%2B+LeetCode+Problems+Solved+%F0%9F%9A%80;Open+to+developer+roles+in+Australia+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 </div>
 
----
+<img src="./divider.svg" width="100%"/>
 
 ## 🧠 About Me
 
@@ -32,7 +32,82 @@ visa:       Subclass 485 — Full work rights until Aug 2028
 open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ```
 
----
+<img src="./divider.svg" width="100%"/>
+
+## 🚀 Currently Building
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<table width="100%">
+<tr><td colspan="2" style="border-left: 3px solid #6E56CF; padding-left: 8px;">
+
+**📅 ShiftMate** &nbsp; ![Status](https://img.shields.io/badge/●_ACTIVE_BUILD-22c55e?style=flat-square&labelColor=0d1117)
+
+</td></tr>
+<tr><td>Stack</td><td><code>React · Node.js · PostgreSQL · Stripe</code></td></tr>
+<tr><td>Type</td><td>AI Workforce Scheduling SaaS</td></tr>
+<tr><td>Stage</td><td>🔨 MVP → Beta</td></tr>
+<tr><td>Goal</td><td>Automate rosters for aged-care teams</td></tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+<table width="100%">
+<tr><td colspan="2" style="border-left: 3px solid #38bdf8; padding-left: 8px;">
+
+**🗓️ WAYA** &nbsp; ![Status](https://img.shields.io/badge/●_LIVE-38bdf8?style=flat-square&labelColor=0d1117)
+
+</td></tr>
+<tr><td>Stack</td><td><code>React · AI/NLP · Socket.io</code></td></tr>
+<tr><td>Type</td><td>AI Group Scheduling — When Are You Available?</td></tr>
+<tr><td>Impact</td><td>47 min → ~2 min scheduling time</td></tr>
+<tr><td>Feature</td><td>Plain English availability, auto timezone</td></tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<table width="100%">
+<tr><td colspan="2" style="border-left: 3px solid #a78bfa; padding-left: 8px;">
+
+**🧬 DrugNexusAI** &nbsp; ![Status](https://img.shields.io/badge/●_PRODUCTION-a78bfa?style=flat-square&labelColor=0d1117)
+
+</td></tr>
+<tr><td>Stack</td><td><code>FastAPI · Node.js · AWS · MongoDB</code></td></tr>
+<tr><td>Type</td><td>Clinical Decision Support System</td></tr>
+<tr><td>AI</td><td>ChemBERTa DDI · 9+ LLM fallbacks</td></tr>
+<tr><td>Link</td><td><a href="https://drugnexusai.app">drugnexusai.app ↗</a></td></tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+<table width="100%">
+<tr><td colspan="2" style="border-left: 3px solid #6E56CF; padding-left: 8px;">
+
+**💡 More Projects** &nbsp; ![Status](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
+
+</td></tr>
+<tr><td>AlgoViz</td><td><a href="https://algo-viz-pi.vercel.app/">algo-viz-pi.vercel.app ↗</a></td></tr>
+<tr><td>Portfolio</td><td><a href="https://siddhanththakuri.com/">siddhanththakuri.com ↗</a></td></tr>
+<tr><td>Focus App</td><td><a href="https://demon-slayer-focus.vercel.app/">demon-slayer-focus ↗</a></td></tr>
+<tr><td>All Repos</td><td><a href="https://github.com/SIDDHANTH-THAKURI">github.com/SIDDHANTH-THAKURI ↗</a></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="./divider.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +119,7 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 
 </div>
 
----
+<img src="./divider.svg" width="100%"/>
 
 ## 💼 Professional Experience
 
@@ -59,76 +134,74 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 | 🔷 | Supported Azure deployments, streamlining releases and minimising downtime |
 | 🏆 | **Unsung Hero Award (2022)** — recognised for outstanding contribution |
 
----
+<img src="./divider.svg" width="100%"/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 📅 ShiftMate — AI Workforce Scheduling SaaS
-
-[![ShiftMate](https://img.shields.io/badge/Status-Active%20Build-brightgreen?style=for-the-badge)](https://github.com/SIDDHANTH-THAKURI)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
-🔹 SaaS platform that automates rosters, availability tracking, and shift coordination  
-🔹 Role-based access control, email notification system, and team management dashboard  
-🔹 Two-tier strategy: free generic version + **ShiftMate Pro** subscription tier  
-🔹 Built solo end-to-end — inspired by real pain points in aged care shift management  
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🗓️ WAYA — AI Group Scheduling *(When Are You Available?)*
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=SIDDHANTH-THAKURI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=38bdf8&text_color=a78bfa&ring_color=6E56CF" height="170"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHANTH-THAKURI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&text_color=a78bfa&langs_count=8" height="170"/>
+</td>
+</tr>
+</table>
 
-[![WAYA](https://img.shields.io/badge/Status-Live-blue?style=for-the-badge)](https://github.com/SIDDHANTH-THAKURI)
-![AI](https://img.shields.io/badge/AI%20Powered-412991?style=flat-square&logo=openai&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHANTH-THAKURI&theme=tokyonight&hide_border=true&background=0D1117&ring=6E56CF&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e&stroke=6E56CF&currStreakNum=38bdf8&sideNums=6E56CF" width="500"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SIDDHANTH-THAKURI&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&title_color=6E56CF" />
 
 </div>
 
-🔹 Eliminates scheduling back-and-forth — share availability in plain English, AI does the rest  
-🔹 Built-in group chat, smart calendar, automatic timezone handling  
-🔹 Reduced average group scheduling time from **47 minutes → ~2 minutes**  
-🔹 No form filling, no calendar sharing required — works for any group size  
+<img src="./divider.svg" width="100%"/>
 
----
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+> WakaTime stats will appear here automatically once the workflow is set up
+<!--END_SECTION:waka-->
+
+<img src="./divider.svg" width="100%"/>
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### 🧬 DrugNexusAI — Clinical Decision Support System
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://drugnexusai.app)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
-🔹 Production-ready CDSS with dual portals (doctor & patient) + AI chatbot with 9+ LLM fallbacks  
-🔹 **ChemBERTa**-based drug-drug interaction detection + Stanford AI deidentification  
-🔹 Multi-cloud infrastructure (Vercel + AWS App Runner + Render) with MongoDB Atlas  
+<img src="./divider.svg" width="100%"/>
 
----
+## 🌐 3D Contribution Graph
 
 <div align="center">
 
-### 💡 More Projects
-
-[![AlgoViz](https://img.shields.io/badge/AlgoViz-Live-success?style=for-the-badge)](https://algo-viz-pi.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge)](https://siddhanththakuri.com/)
-[![Focus App](https://img.shields.io/badge/Focus%20App-Live-success?style=for-the-badge)](https://demon-slayer-focus.vercel.app/)
-[![All Repos](https://img.shields.io/badge/All%20Repos-GitHub-100000?style=for-the-badge&logo=github)](https://github.com/SIDDHANTH-THAKURI)
+[![](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/SIDDHANTH-THAKURI)
 
 </div>
 
----
+<img src="./divider.svg" width="100%"/>
 
-## 🎓 Education and Certifications
+## 📚 LeetCode
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/siddhanththakuri?theme=dark&ext=heatmap&border=0&radius=10" height="250"/>
+</div>
+
+<img src="./divider.svg" width="100%"/>
+
+## 🎓 Education & Certifications
 
 | | | |
 |---|---|---|
@@ -139,79 +212,24 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 | 📜 | **Microsoft Certified: Security, Compliance and Identity Fundamentals (SC-900)** | |
 | 📜 | **Python Crash Course** — Google / Coursera | |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SIDDHANTH-THAKURI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=38bdf8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHANTH-THAKURI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHANTH-THAKURI&theme=tokyonight&hide_border=true&background=0D1117&ring=6E56CF&fire=38bdf8&currStreakLabel=a78bfa" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=SIDDHANTH-THAKURI&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-> WakaTime stats will appear here automatically once the workflow is set up
-<!--END_SECTION:waka-->
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-## 🌐 3D Contribution Graph
-
-<div align="center">
-
-[![](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/SIDDHANTH-THAKURI)
-
-</div>
-
----
-
-## 📚 LeetCode
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/siddhanththakuri?theme=dark&ext=heatmap&border=0&radius=10" height="250"/>
-</div>
-
----
+<img src="./divider.svg" width="100%"/>
 
 ## 🏅 Achievements
 
-- 🥇 **Accenture Unsung Hero Award (2022)** — recognised for outstanding team contribution  
-- 📜 **Microsoft Certified: Security, Compliance and Identity Fundamentals (SC-900)**  
-- 🎯 **CodinGame Spring Challenge 2025** — Global competitive programming participant  
-- 📜 **Python Crash Course** — Google / Coursera  
+- 🥇 **Accenture Unsung Hero Award (2022)** — recognised for outstanding team contribution
+- 📜 **Microsoft Certified: SC-900** — Security, Compliance and Identity Fundamentals
+- 🎯 **CodinGame Spring Challenge 2025** — Global competitive programming participant
+- 📜 **Python Crash Course** — Google / Coursera
 
----
+<img src="./divider.svg" width="100%"/>
 
 ## ⚡ Fun Facts
 
-🚀 Built my first deep learning model on a potato laptop 🥔💻  
-✈️ Aviation enthusiast — Bachelor's in Aeronautical Engineering before pivoting to software  
-🤖 Can explain Transformers (the ML ones… and the robots if you insist)  
+🚀 Built my first deep learning model on a potato laptop 🥔💻
+✈️ Aviation enthusiast — Bachelor's in Aeronautical Engineering before pivoting to software
+🤖 Can explain Transformers (the ML ones… and the robots if you insist)
 
----
+<img src="./divider.svg" width="100%"/>
 
 <div align="center">
 
