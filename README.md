@@ -51,7 +51,7 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 <tr><td>Stack</td><td><code>React · Node.js · PostgreSQL · Stripe</code></td></tr>
 <tr><td>Type</td><td>AI Workforce Scheduling SaaS</td></tr>
 <tr><td>Stage</td><td>🔨 MVP → Beta</td></tr>
-<tr><td>Goal</td><td>Automate rosters for aged-care teams</td></tr>
+<tr><td>Link</td><td><a href="https://shift-mate-gamma.vercel.app/">shift-mate-gamma.vercel.app ↗</a></td></tr>
 </table>
 
 </td>
@@ -66,7 +66,7 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 <tr><td>Stack</td><td><code>React · AI/NLP · Socket.io</code></td></tr>
 <tr><td>Type</td><td>AI Group Scheduling — When Are You Available?</td></tr>
 <tr><td>Impact</td><td>47 min → ~2 min scheduling time</td></tr>
-<tr><td>Feature</td><td>Plain English availability, auto timezone</td></tr>
+<tr><td>Link</td><td><a href="https://waya-pi.vercel.app/">waya-pi.vercel.app ↗</a></td></tr>
 </table>
 
 </td>
