@@ -164,7 +164,77 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-> WakaTime stats will appear here automatically once the workflow is set up
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 12 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+🌆 Daytime                156 commits         █████████░░░░░░░░░░░░░░░░   35.21 % 
+🌃 Evening                166 commits         █████████░░░░░░░░░░░░░░░░   37.47 % 
+🌙 Night                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Tuesday                  48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Thursday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Friday                   135 commits         ████████░░░░░░░░░░░░░░░░░   30.47 % 
+Saturday                 130 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+Sunday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/03/2026 05:06:29 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
