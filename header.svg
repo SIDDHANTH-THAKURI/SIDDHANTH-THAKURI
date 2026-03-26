@@ -1,0 +1,76 @@
+<svg width="100%" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6E56CF"/>
+      <stop offset="50%" style="stop-color:#38bdf8"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6E56CF;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#6E56CF"/>
+      <stop offset="70%" style="stop-color:#38bdf8"/>
+      <stop offset="100%" style="stop-color:#38bdf8;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- Grid lines -->
+  <g opacity="0.05" stroke="#6E56CF" stroke-width="0.5">
+    <line x1="0" y1="44" x2="900" y2="44"/>
+    <line x1="0" y1="88" x2="900" y2="88"/>
+    <line x1="0" y1="132" x2="900" y2="132"/>
+    <line x1="0" y1="176" x2="900" y2="176"/>
+    <line x1="180" y1="0" x2="180" y2="220"/>
+    <line x1="360" y1="0" x2="360" y2="220"/>
+    <line x1="540" y1="0" x2="540" y2="220"/>
+    <line x1="720" y1="0" x2="720" y2="220"/>
+  </g>
+
+  <!-- Floating orbs -->
+  <circle cx="100" cy="60" r="50" fill="#6E56CF" opacity="0.08">
+    <animate attributeName="cy" values="60;80;60" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="160" r="65" fill="#38bdf8" opacity="0.07">
+    <animate attributeName="cy" values="160;140;160" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="25" r="30" fill="#a78bfa" opacity="0.09">
+    <animate attributeName="cy" values="25;45;25" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Particles -->
+  <circle cx="60" cy="30" r="1.5" fill="#6E56CF" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="190" r="1" fill="#38bdf8" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="650" cy="40" r="1.5" fill="#a78bfa" opacity="0.7"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="840" cy="80" r="1" fill="#6E56CF" opacity="0.4"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="330" cy="200" r="1.5" fill="#38bdf8" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.5s" repeatCount="indefinite"/></circle>
+  <circle cx="560" cy="12" r="1" fill="#a78bfa" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="4.5s" repeatCount="indefinite"/></circle>
+  <circle cx="750" cy="195" r="1.5" fill="#6E56CF" opacity="0.4"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="3s" repeatCount="indefinite"/></circle>
+
+  <!-- Corner accents -->
+  <polyline points="20,50 20,20 50,20" fill="none" stroke="#6E56CF" stroke-width="2" opacity="0.6"/>
+  <polyline points="850,20 880,20 880,50" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.6"/>
+  <polyline points="20,170 20,200 50,200" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.6"/>
+  <polyline points="850,200 880,200 880,170" fill="none" stroke="#6E56CF" stroke-width="2" opacity="0.6"/>
+
+  <!-- Main name -->
+  <text x="450" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="46" font-weight="700" fill="url(#textGrad)">Siddhanth Thakuri</text>
+
+  <!-- Divider line -->
+  <rect x="225" y="118" width="450" height="1.5" fill="url(#lineGrad)" rx="1"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#8b949e" letter-spacing="4">SOFTWARE ENGINEER  ·  AI  ·  FULL-STACK  ·  SYDNEY 🇦🇺</text>
+
+  <!-- Status pill -->
+  <rect x="330" y="165" width="190" height="26" rx="13" fill="#6E56CF" opacity="0.15" stroke="#6E56CF" stroke-width="0.8"/>
+  <circle cx="350" cy="178" r="4" fill="#22c55e">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="363" y="183" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa" letter-spacing="1">Open to opportunities</text>
+</svg>
