@@ -305,6 +305,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 *"Turning ideas into code, and code into impact."*
 
-![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Up.svg)
+<img src="./wave.svg" width="100%" alt="wave"/>
 
 </div>

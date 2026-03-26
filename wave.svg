@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
+  <defs>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6E56CF;stop-opacity:0.6"/>
+      <stop offset="50%" style="stop-color:#38bdf8;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:0.6"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0.4"/>
+      <stop offset="50%" style="stop-color:#6E56CF;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#38bdf8;stop-opacity:0.4"/>
+    </linearGradient>
+    <linearGradient id="waveGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38bdf8;stop-opacity:0.25"/>
+      <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#6E56CF;stop-opacity:0.25"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background fill to match profile dark bg -->
+  <rect width="900" height="120" fill="#0d1117"/>
+
+  <!-- Wave layer 3 (back) -->
+  <path d="M0,80 C150,40 300,100 450,60 C600,20 750,80 900,50 L900,120 L0,120 Z" fill="url(#waveGrad3)">
+    <animate attributeName="d"
+      values="
+        M0,80 C150,40 300,100 450,60 C600,20 750,80 900,50 L900,120 L0,120 Z;
+        M0,60 C150,90 300,40 450,80 C600,110 750,50 900,70 L900,120 L0,120 Z;
+        M0,80 C150,40 300,100 450,60 C600,20 750,80 900,50 L900,120 L0,120 Z
+      "
+      dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave layer 2 (mid) -->
+  <path d="M0,90 C120,55 270,110 450,75 C630,40 780,90 900,65 L900,120 L0,120 Z" fill="url(#waveGrad2)">
+    <animate attributeName="d"
+      values="
+        M0,90 C120,55 270,110 450,75 C630,40 780,90 900,65 L900,120 L0,120 Z;
+        M0,65 C120,100 270,50 450,85 C630,115 780,60 900,80 L900,120 L0,120 Z;
+        M0,90 C120,55 270,110 450,75 C630,40 780,90 900,65 L900,120 L0,120 Z
+      "
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave layer 1 (front) -->
+  <path d="M0,100 C100,70 250,115 450,85 C650,55 800,100 900,78 L900,120 L0,120 Z" fill="url(#waveGrad1)">
+    <animate attributeName="d"
+      values="
+        M0,100 C100,70 250,115 450,85 C650,55 800,100 900,78 L900,120 L0,120 Z;
+        M0,78 C100,108 250,68 450,98 C650,120 800,75 900,95 L900,120 L0,120 Z;
+        M0,100 C100,70 250,115 450,85 C650,55 800,100 900,78 L900,120 L0,120 Z
+      "
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Solid bottom fill so no gap -->
+  <rect x="0" y="115" width="900" height="5" fill="#a78bfa" opacity="0.5"/>
+</svg>
