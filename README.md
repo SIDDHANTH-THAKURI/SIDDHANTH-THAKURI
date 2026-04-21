@@ -51,7 +51,7 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 <tr><td>Stack</td><td><code>React · Node.js · PostgreSQL · Stripe</code></td></tr>
 <tr><td>Type</td><td>AI Workforce Scheduling SaaS</td></tr>
 <tr><td>Stage</td><td>🔨 MVP → Beta</td></tr>
-<tr><td>Link</td><td><a href="https://shift-mate-gamma.vercel.app/">shift-mate-gamma.vercel.app ↗</a></td></tr>
+<tr><td>Link</td><td><a href="https://shiftmate-1.onrender.com">shiftmate-1.onrender.com ↗</a></td></tr>
 </table>
 
 </td>
