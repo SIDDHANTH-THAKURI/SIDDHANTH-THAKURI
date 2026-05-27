@@ -164,8 +164,6 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2048%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -190,8 +188,8 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 
 ```text
 Monday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Wednesday                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Tuesday                  61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 Thursday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 Friday                   161 commits         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
 Saturday                 150 commits         ███████░░░░░░░░░░░░░░░░░░   26.13 % 
@@ -243,7 +241,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 01:49:42 UTC
+ Last Updated on 27/05/2026 01:57:13 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
