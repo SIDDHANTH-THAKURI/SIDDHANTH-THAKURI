@@ -164,6 +164,8 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2015%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -191,8 +193,8 @@ Monday                   38 commits          ███░░░░░░░░�
 Tuesday                  65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 Thursday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Friday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Friday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Saturday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 
@@ -203,25 +205,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.57 % 
-Markdown                 1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Python                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-CSS                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JavaScript               2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
+Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Python                   57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████░░░░░░░░░░░░   51.89 % 
-Claude Code              3 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.11 % 
+Claude Code              3 hrs 18 mins       █████████████░░░░░░░░░░░░   50.92 % 
+VS Code                  3 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.08 % 
 
 🐱‍💻 Projects: 
-brewdeck                 5 hrs 11 mins       ██████████████████░░░░░░░   71.37 % 
-randomnreproject         1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-inside-the-answer        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-etesrsrsr                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Jarvis                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+brewdeck                 5 hrs 11 mins       ████████████████████░░░░░   79.81 % 
+inside-the-answer        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+randomnreproject         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+etesrsrsr                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Jarvis                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 💻 Operating System: 
-Windows                  7 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -241,7 +243,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 01:17:18 UTC
+ Last Updated on 26/07/2026 01:20:00 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
