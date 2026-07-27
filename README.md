@@ -170,11 +170,11 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 94 Contributions in the Year 2026
+> 🏆 95 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -194,8 +194,8 @@ Tuesday                  65 commits          ████░░░░░░░�
 Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 Thursday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
 Friday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Saturday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 
 
@@ -205,25 +205,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
-Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Python                   57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+JavaScript               2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
+Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Text                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Image (svg)              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 18 mins       █████████████░░░░░░░░░░░░   50.92 % 
-VS Code                  3 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.08 % 
+Claude Code              4 hrs 31 mins       ███████████████████░░░░░░   75.41 % 
+VS Code                  1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
 
 🐱‍💻 Projects: 
-brewdeck                 5 hrs 11 mins       ████████████████████░░░░░   79.81 % 
-inside-the-answer        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-randomnreproject         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-etesrsrsr                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Jarvis                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+brewdeck                 2 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
+M8Assessment1            59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+QIBA                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+logos                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+inside-the-answer        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 
 💻 Operating System: 
-Windows                  6 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -243,7 +243,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 01:20:00 UTC
+ Last Updated on 27/07/2026 01:23:58 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
