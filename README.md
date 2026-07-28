@@ -164,7 +164,9 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2052%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -183,19 +185,19 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ```text
 🌞 Morning                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 🌆 Daytime                97 commits          ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-🌃 Evening                165 commits         ███████████░░░░░░░░░░░░░░   44.84 % 
-🌙 Night                  73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+🌃 Evening                164 commits         ███████████░░░░░░░░░░░░░░   44.57 % 
+🌙 Night                  74 commits          █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Tuesday                  65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 Thursday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
 Friday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
 Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 
 
@@ -205,25 +207,51 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
-Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Text                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Image (svg)              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+JavaScript               2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.82 % 
+Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Text                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Image (svg)              35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 31 mins       ███████████████████░░░░░░   75.41 % 
-VS Code                  1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Claude Code              4 hrs 25 mins       ███████████████████░░░░░░   77.39 % 
+VS Code                  1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
 
 🐱‍💻 Projects: 
-brewdeck                 2 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
-M8Assessment1            59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-QIBA                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-logos                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-inside-the-answer        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+brewdeck                 2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.32 % 
+M8Assessment1            59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+QIBA                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+logos                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+inside-the-answer        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 💻 Operating System: 
-Windows                  6 hrs               █████████████████████████   100.00 % 
+Windows                  5 hrs 42 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 36 mins (98.32%)
+
+✍️ 4,842 lines written by AI, 60 lines written by hand (98.78% AI-written)
+
+🔤 60,835,868 Input Tokens, 394,250 Output Tokens
+
+💵 $205.21 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 95 AI Prompts
+
+Fable                    2,866 lines         █████████████░░░░░░░░░░░░   51.50 % 
+Sonnet                   2,366 lines         ███████████░░░░░░░░░░░░░░   42.52 % 
+Opus                     333 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.78% of written lines came from AI
+📚 Verbose Prompter — average 8,958 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -243,7 +271,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 01:23:58 UTC
+ Last Updated on 28/07/2026 01:11:58 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
