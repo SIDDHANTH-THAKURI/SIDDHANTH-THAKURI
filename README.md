@@ -164,10 +164,6 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2037%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2052%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -185,8 +181,8 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ```text
 🌞 Morning                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 🌆 Daytime                97 commits          ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-🌃 Evening                164 commits         ███████████░░░░░░░░░░░░░░   44.57 % 
-🌙 Night                  74 commits          █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+🌃 Evening                165 commits         ███████████░░░░░░░░░░░░░░   44.84 % 
+🌙 Night                  73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -271,7 +267,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:11:58 UTC
+ Last Updated on 29/07/2026 01:15:02 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
