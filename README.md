@@ -193,8 +193,8 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ```text
 Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 Tuesday                  65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Wednesday                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Thursday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Thursday                 88 commits          ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
 Friday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
 Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
@@ -207,49 +207,49 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Text                     44 mins             ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Image (svg)              35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-Other                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-JavaScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Text                     44 mins             ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+Image (svg)              35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Other                    33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 37 mins       ████████████████████████░   94.28 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Claude Code              2 hrs 30 mins       ████████████████████████░   94.05 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🐱‍💻 Projects: 
-M8Assessment1            59 mins             █████████░░░░░░░░░░░░░░░░   35.84 % 
-QIBA                     43 mins             ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-logos                    32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-ABC_Partners             21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-brewdeck                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+M8Assessment1            59 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
+QIBA                     43 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+logos                    32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+ABC_Partners             21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+mousemove                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 40 mins (96.53%)
+⏱ AI Coding Time: 2 hrs 34 mins (96.39%)
 
-✍️ 2,239 lines written by AI, 60 lines written by hand (97.39% AI-written)
+✍️ 2,238 lines written by AI, 60 lines written by hand (97.39% AI-written)
 
-🔤 21,128,959 Input Tokens, 150,852 Output Tokens
+🔤 19,735,383 Input Tokens, 149,787 Output Tokens
 
-💵 $78.43 Estimated AI Cost This Week
+💵 $74.23 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 46 AI Prompts
+🧠 5 AI Sessions, 43 AI Prompts
 
-Sonnet                   2,085 lines         ██████████████████░░░░░░░   71.40 % 
-Fable                    608 lines           █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Opus                     227 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Sonnet                   2,084 lines         ██████████████████░░░░░░░   71.39 % 
+Fable                    608 lines           █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Opus                     227 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.39% of written lines came from AI
-📚 Verbose Prompter — average 18,173 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 19,435 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 2.53% of changed lines were hand-edited
 ```
 
@@ -270,7 +270,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 01:07:38 UTC
+ Last Updated on 31/07/2026 01:20:17 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
