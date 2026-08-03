@@ -196,8 +196,8 @@ Tuesday                  65 commits          ████░░░░░░░�
 Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 Thursday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
 Friday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Saturday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 
 
@@ -207,22 +207,22 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Text                     44 mins             ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Image (svg)              35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Other                    33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Python                   1 hr 33 mins        ███████████████░░░░░░░░░░   58.90 % 
+Text                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Image (svg)              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 30 mins       ████████████████████████░   94.05 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Claude Code              2 hrs 37 mins       █████████████████████████   98.75 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-M8Assessment1            59 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
-QIBA                     43 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-logos                    32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-ABC_Partners             21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-mousemove                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+build                    1 hr 25 mins        █████████████░░░░░░░░░░░░   53.96 % 
+M8Assessment1            51 mins             ████████░░░░░░░░░░░░░░░░░   32.62 % 
+ABC_Partners             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+logos                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+assets                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
 Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
@@ -231,26 +231,23 @@ Windows                  2 hrs 39 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 34 mins (96.39%)
+⏱ AI Coding Time: 2 hrs 38 mins (99.37%)
 
-✍️ 2,238 lines written by AI, 60 lines written by hand (97.39% AI-written)
+✍️ 3,991 lines written by AI, 19 lines written by hand (99.53% AI-written)
 
-🔤 19,735,383 Input Tokens, 149,787 Output Tokens
+🔤 82,860,340 Input Tokens, 395,889 Output Tokens
 
-💵 $74.23 Estimated AI Cost This Week
+💵 $254.52 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 43 AI Prompts
+🧠 2 AI Sessions, 14 AI Prompts
 
-Sonnet                   2,084 lines         ██████████████████░░░░░░░   71.39 % 
-Fable                    608 lines           █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Opus                     227 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   4,009 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.39% of written lines came from AI
-📚 Verbose Prompter — average 19,435 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.53% of changed lines were hand-edited
+🤖 AI-Driven — 99.53% of written lines came from AI
+📝 Concise Prompter — average 311 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -270,7 +267,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 01:18:57 UTC
+ Last Updated on 03/08/2026 01:19:41 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
