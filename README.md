@@ -166,7 +166,7 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2059%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -194,8 +194,8 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Thursday                 90 commits          ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Friday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Thursday                 89 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Friday                   65 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 Saturday                 73 commits          █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 ```
@@ -207,48 +207,48 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               3 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.99 % 
-HTML                     1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Markdown                 1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-CSS                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JavaScript               2 hrs 31 mins       ██████████████░░░░░░░░░░░   55.61 % 
+HTML                     1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 4 mins        ████████████████████████░   96.61 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Claude Code              4 hrs 22 mins       ████████████████████████░   96.44 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🐱‍💻 Projects: 
-AirStudio-main           4 hrs 36 mins       ████████████████░░░░░░░░░   62.90 % 
-projectorshow            2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.70 % 
-Jarvis                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-internet                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-linkin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+AirStudio-main           2 hrs 13 mins       ████████████░░░░░░░░░░░░░   49.03 % 
+projectorshow            2 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.10 % 
+Jarvis                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+internet                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+linkin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  7 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (99.65%)
+⏱ AI Coding Time: 4 hrs 31 mins (99.44%)
 
-✍️ 12,055 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 8,838 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 11,290,719 Input Tokens, 747,657 Output Tokens
+🔤 8,635,001 Input Tokens, 436,680 Output Tokens
 
-💵 $198.96 Estimated AI Cost This Week
+💵 $132.19 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 72 AI Prompts
+🧠 10 AI Sessions, 48 AI Prompts
 
-Opus                     12,165 lines        ████████████████████████░   97.66 % 
-Sonnet                   292 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Opus                     9,085 lines         █████████████████████████   98.80 % 
+Sonnet                   110 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 864 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,163 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
@@ -269,7 +269,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 00:28:07 UTC
+ Last Updated on 22/08/2026 00:25:27 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
