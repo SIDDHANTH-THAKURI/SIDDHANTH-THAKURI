@@ -196,8 +196,8 @@ Tuesday                  66 commits          ████░░░░░░░�
 Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 Thursday                 89 commits          ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
 Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Saturday                 74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Saturday                 73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -207,47 +207,40 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               1 hr 14 mins        ██████████████░░░░░░░░░░░   55.25 % 
-HTML                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+HTML                     20 mins             ████████████████░░░░░░░░░   62.75 % 
+JavaScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 13 mins       █████████████████████████   98.41 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Claude Code              32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-projectorshow            1 hr 35 mins        ██████████████████░░░░░░░   70.98 % 
-AirStudio-main           28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Jarvis                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-internet                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-linkin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+AirStudio-main           28 mins             ██████████████████████░░░   88.61 % 
+internet                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 
 💻 Operating System: 
-Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (99.62%)
+⏱ AI Coding Time: 32 mins (100.0%)
 
-✍️ 5,110 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 24 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,882,468 Input Tokens, 258,820 Output Tokens
+🔤 2,489,089 Input Tokens, 13,211 Output Tokens
 
-💵 $55.77 Estimated AI Cost This Week
+💵 $26.83 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 25 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
-Opus                     5,303 lines         █████████████████████████   99.92 % 
-Sonnet                   4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     517 lines           █████████████████████████   99.61 % 
+Sonnet                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 713 characters per prompt
+📝 Concise Prompter — average 76 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -269,7 +262,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 00:27:15 UTC
+ Last Updated on 24/08/2026 00:26:51 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
