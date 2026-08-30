@@ -183,10 +183,10 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 🌆 Daytime                100 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 🌃 Evening                169 commits         ███████████░░░░░░░░░░░░░░   44.47 % 
-🌙 Night                  74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+🌙 Night                  75 commits          █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -196,8 +196,8 @@ Tuesday                  66 commits          ████░░░░░░░�
 Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 Thursday                 89 commits          ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
 Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Saturday                 74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Saturday                 73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -207,22 +207,43 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 38 mins        ████████████████████░░░░░   78.21 % 
+Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 55 mins        ███████████████████████░░   92.30 % 
+VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+T_Course                 2 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 5 mins (99.67%)
+
+✍️ 6,013 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,164,457 Input Tokens, 303,782 Output Tokens
+
+💵 $122.05 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 8 AI Prompts
+
+Opus                     6,013 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 678 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -242,7 +263,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 04:21:36 UTC
+ Last Updated on 30/08/2026 01:48:09 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
