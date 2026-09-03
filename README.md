@@ -183,21 +183,21 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-🌆 Daytime                100 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-🌃 Evening                169 commits         ███████████░░░░░░░░░░░░░░   44.47 % 
-🌙 Night                  75 commits          █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+🌞 Morning                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+🌆 Daytime                100 commits         ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+🌃 Evening                169 commits         ███████████░░░░░░░░░░░░░░   44.13 % 
+🌙 Night                  75 commits          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Wednesday                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Thursday                 89 commits          ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Saturday                 73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Thursday                 93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Saturday                 73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 ```
 
 
@@ -266,7 +266,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 01:30:02 UTC
+ Last Updated on 03/09/2026 01:33:35 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
