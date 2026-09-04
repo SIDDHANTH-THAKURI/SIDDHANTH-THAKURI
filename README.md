@@ -194,8 +194,8 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Thursday                 93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Thursday                 92 commits          ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Friday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 Saturday                 73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
 Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 ```
@@ -207,46 +207,47 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               1 hr 38 mins        ██████████████░░░░░░░░░░░   56.45 % 
-Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               2 hrs 51 mins       █████████████░░░░░░░░░░░░   50.56 % 
+Other                    1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 37 mins       ███████████████████████░░   90.67 % 
-VS Code                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Claude Code              5 hrs 4 mins        ██████████████████████░░░   89.81 % 
+VS Code                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 
 🐱‍💻 Projects: 
-T_Course                 2 hrs 5 mins        ██████████████████░░░░░░░   72.14 % 
-newconnection            48 mins             ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+brewdeck                 2 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.67 % 
+T_Course                 2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.03 % 
+newconnection            48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 
 💻 Operating System: 
-Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (96.41%)
+⏱ AI Coding Time: 5 hrs 28 mins (96.79%)
 
-✍️ 8,215 lines written by AI, 5 lines written by hand (99.94% AI-written)
+✍️ 8,849 lines written by AI, 9 lines written by hand (99.9% AI-written)
 
-🔤 2,307,135 Input Tokens, 385,884 Output Tokens
+🔤 3,372,402 Input Tokens, 482,213 Output Tokens
 
-💵 $125.19 Estimated AI Cost This Week
+💵 $139.55 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 20 AI Prompts
+🧠 17 AI Sessions, 91 AI Prompts
 
-Opus                     6,013 lines         ██████████████████░░░░░░░   73.20 % 
-Sonnet                   2,202 lines         ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Opus                     6,639 lines         ███████████████████░░░░░░   75.00 % 
+Sonnet                   2,213 lines         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 527 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📝 Concise Prompter — average 264 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -266,7 +267,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 01:33:35 UTC
+ Last Updated on 04/09/2026 01:27:15 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
