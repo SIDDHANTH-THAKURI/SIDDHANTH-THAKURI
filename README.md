@@ -164,9 +164,9 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -183,21 +183,21 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-🌆 Daytime                100 commits         ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-🌃 Evening                169 commits         ███████████░░░░░░░░░░░░░░   44.13 % 
-🌙 Night                  75 commits          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌞 Morning                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+🌆 Daytime                100 commits         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+🌃 Evening                169 commits         ███████████░░░░░░░░░░░░░░   43.90 % 
+🌙 Night                  77 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Thursday                 92 commits          ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-Friday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Saturday                 73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Thursday                 92 commits          ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Saturday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 ```
 
 
@@ -207,46 +207,46 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               2 hrs 51 mins       █████████████░░░░░░░░░░░░   50.56 % 
-Other                    1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+JavaScript               3 hrs 30 mins       █████████████░░░░░░░░░░░░   53.91 % 
+Other                    1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 4 mins        ██████████████████████░░░   89.81 % 
-VS Code                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Claude Code              5 hrs 39 mins       ██████████████████████░░░   87.02 % 
+VS Code                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 
 🐱‍💻 Projects: 
-brewdeck                 2 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.67 % 
-T_Course                 2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.03 % 
-newconnection            48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+brewdeck                 3 hrs 35 mins       ██████████████░░░░░░░░░░░   55.32 % 
+T_Course                 2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.24 % 
+newconnection            48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 
 💻 Operating System: 
-Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 28 mins (96.79%)
+⏱ AI Coding Time: 6 hrs 18 mins (97.2%)
 
-✍️ 8,849 lines written by AI, 9 lines written by hand (99.9% AI-written)
+✍️ 9,025 lines written by AI, 9 lines written by hand (99.9% AI-written)
 
-🔤 3,372,402 Input Tokens, 482,213 Output Tokens
+🔤 4,819,367 Input Tokens, 524,464 Output Tokens
 
-💵 $139.55 Estimated AI Cost This Week
+💵 $147.95 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 91 AI Prompts
+🧠 30 AI Sessions, 108 AI Prompts
 
-Opus                     6,639 lines         ███████████████████░░░░░░   75.00 % 
-Sonnet                   2,213 lines         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Opus                     6,797 lines         ███████████████████░░░░░░   75.29 % 
+Sonnet                   2,231 lines         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.9% of written lines came from AI
-📝 Concise Prompter — average 264 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 266 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
@@ -267,7 +267,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 01:27:15 UTC
+ Last Updated on 05/09/2026 01:28:55 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
