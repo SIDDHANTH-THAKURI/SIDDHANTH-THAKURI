@@ -164,9 +164,9 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -192,8 +192,8 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 
 ```text
 Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Tuesday                  67 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Wednesday                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 Thursday                 92 commits          ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
 Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 Saturday                 77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
@@ -268,7 +268,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 01:31:07 UTC
+ Last Updated on 09/09/2026 01:39:08 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
