@@ -183,21 +183,21 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-🌆 Daytime                101 commits         ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-🌃 Evening                170 commits         ███████████░░░░░░░░░░░░░░   43.93 % 
-🌙 Night                  77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+🌞 Morning                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+🌆 Daytime                101 commits         ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+🌃 Evening                170 commits         ███████████░░░░░░░░░░░░░░   43.81 % 
+🌙 Night                  78 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Wednesday                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Thursday                 92 commits          ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 
 
@@ -233,11 +233,11 @@ Windows                  5 hrs 20 mins       ███████████�
 
 ✍️ 1,558 lines written by AI, 7 lines written by hand (99.55% AI-written)
 
-🔤 4,649,069 Input Tokens, 217,295 Output Tokens
+🔤 4,649,754 Input Tokens, 218,093 Output Tokens
 
-💵 $43.24 Estimated AI Cost This Week
+💵 $43.39 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 161 AI Prompts
+🧠 76 AI Sessions, 162 AI Prompts
 
 Sonnet                   900 lines           █████████████░░░░░░░░░░░░   51.96 % 
 Opus                     832 lines           ████████████░░░░░░░░░░░░░   48.04 % 
@@ -246,7 +246,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.55% of written lines came from AI
-📝 Concise Prompter — average 246 characters per prompt
+📝 Concise Prompter — average 244 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 1.2% of changed lines were hand-edited
 ```
@@ -268,7 +268,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 01:39:08 UTC
+ Last Updated on 10/09/2026 01:33:25 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
