@@ -166,7 +166,7 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2056%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -195,8 +195,8 @@ Monday                   40 commits          ███░░░░░░░░�
 Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 Thursday                 93 commits          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Friday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Saturday                 77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 78 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
 Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 
@@ -207,48 +207,48 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               2 hrs 17 mins       █████████████████░░░░░░░░   69.25 % 
-Git Config               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript               56 mins             █████████████░░░░░░░░░░░░   51.01 % 
+Git Config               20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 32 mins       ███████████████████░░░░░░   76.71 % 
-VS Code                  46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Claude Code              1 hr 17 mins        █████████████████░░░░░░░░   69.48 % 
+VS Code                  34 mins             ████████░░░░░░░░░░░░░░░░░   30.52 % 
 
 🐱‍💻 Projects: 
-brewdeck                 2 hrs 49 mins       █████████████████████░░░░   85.15 % 
-ppttt                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-brewdeck-call-scratch    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+brewdeck                 1 hr 22 mins        ██████████████████░░░░░░░   73.55 % 
+ppttt                    25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+brewdeck-call-scratch    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (93.31%)
+⏱ AI Coding Time: 1 hr 38 mins (88.09%)
 
-✍️ 1,487 lines written by AI, 3 lines written by hand (99.8% AI-written)
+✍️ 1,029 lines written by AI, 3 lines written by hand (99.71% AI-written)
 
-🔤 5,743,672 Input Tokens, 272,584 Output Tokens
+🔤 4,150,853 Input Tokens, 154,799 Output Tokens
 
-💵 $79.25 Estimated AI Cost This Week
+💵 $49.05 Estimated AI Cost This Week
 
-🧠 113 AI Sessions, 151 AI Prompts
+🧠 61 AI Sessions, 92 AI Prompts
 
-Sonnet                   937 lines           ███████████████░░░░░░░░░░   61.56 % 
-Opus                     585 lines           ██████████░░░░░░░░░░░░░░░   38.44 % 
+Sonnet                   863 lines           █████████████████████░░░░   83.79 % 
+Opus                     167 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📝 Concise Prompter — average 318 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.85% of changed lines were hand-edited
+🤖 AI-Driven — 99.71% of written lines came from AI
+📝 Concise Prompter — average 313 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -268,7 +268,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 01:32:48 UTC
+ Last Updated on 12/09/2026 01:39:08 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
