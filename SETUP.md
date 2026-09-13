@@ -59,17 +59,16 @@ The graph SVG will be committed to your repo automatically.
 
 ---
 
-## Step 6 — Update live links
+## Step 6 — Keep it in sync with the portfolio
 
-Once ShiftMate and WAYA are live, replace the badge hrefs in README.md:
+The README mirrors siddhanththakuri.com. When the portfolio changes, update:
 
-Find:
-  `[![ShiftMate](https://img.shields.io/badge/Status-Active%20Build-brightgreen?style=for-the-badge)](https://github.com/SIDDHANTH-THAKURI)`
+- **Typing banner** — the `lines=` parameter is URL-encoded; spaces are `+`, `@` is `%40`, `,` is `%2C`, `&` is `%26`
+- **About Me** — role, and the shipped / live counts (currently 14 · 11)
+- **Selected Work** — six cards in the portfolio's ranking order; everything else goes in "Also shipped"
+- **Experience** — newest role first
 
-Replace with:
-  `[![ShiftMate](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)](https://YOUR-SHIFTMATE-URL)`
-
-Same for WAYA.
+Never hand-edit anything between `<!--START_SECTION:waka-->` and `<!--END_SECTION:waka-->` — the WakaTime Action rewrites that block daily and will overwrite it.
 
 ---
 

@@ -2,15 +2,14 @@
 
 <img src="./header.svg" width="100%" alt="Siddhanth Thakuri"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=650&lines=Building+AI-powered+products+%F0%9F%A4%96;Full-Stack+%7C+React+%2B+Node+%2B+.NET+%2B+Python;MSc+Computer+Science+%40+UOW+%F0%9F%8E%93;280%2B+LeetCode+Problems+Solved+%F0%9F%9A%80;Open+to+developer+roles+in+Australia+%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer+%40+DBM%2C+Sydney;Aeronautical+engineer+turned+software+engineer;Building+AI+products%2C+portals+%26+automation;14+projects+shipped+%C2%B7+11+live;Hand-tracked+instruments.+Orbits.+In+the+browser.)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="mailto:thakurisiddhanth1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://siddhanththakuri.com"><img src="https://img.shields.io/badge/Portfolio-siddhanththakuri.com-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/siddhanththakuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thakurisiddhanth1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/siddhanththakuri/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://github.com/SIDDHANTH-THAKURI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://siddhanththakuri.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -23,18 +22,21 @@
 ## 🧠 About Me
 
 ```yaml
-name:       Siddhanth Thakuri
-location:   Sydney, Australia 🇦🇺
-education:  MSc Computer Science — Machine Learning & Big Data (UOW, 2025)
-experience: Software Developer @ Accenture (2021–2023)
-currently:  Building ShiftMate & WAYA | QIBA Professional Year (IT)
-visa:       Subclass 485 — Full work rights until Aug 2028
-open_to:    Developer, ML Engineer, Full-Stack roles in Australia
+name:        Siddhanth Thakuri
+role:        Software Engineer @ DBM — Discount Building Material
+location:    Sydney, Australia 🇦🇺
+arc:         Aeronautical Engineering → Enterprise .NET → AI products
+previously:  Software Engineer @ Accenture (2021–2023)
+education:   MSc Computer Science, ML & Big Data — UOW (Distinction)
+shipped:     14 projects · 11 live
+building:    B2B portals, integrations & AI-assisted automation
 ```
+
+> I build things from problems I've actually lived — and every project below started as something I needed to exist.
 
 <img src="./divider.svg" width="100%"/>
 
-## 🚀 Currently Building
+## 🚀 Selected Work
 
 <div align="center">
 
@@ -42,68 +44,110 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 <tr>
 <td width="50%" valign="top">
 
-<table width="100%">
-<tr><td colspan="2" style="border-left: 3px solid #6E56CF; padding-left: 8px;">
+**🎸 [Air Studio](https://www.playairstudio.com/)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
 
-**📅 ShiftMate** &nbsp; ![Status](https://img.shields.io/badge/●_ACTIVE_BUILD-22c55e?style=flat-square&labelColor=0d1117)
+Instruments you play with your hands and a webcam — no controller, no install.
 
-</td></tr>
-<tr><td>Stack</td><td><code>React · Node.js · PostgreSQL · Stripe</code></td></tr>
-<tr><td>Type</td><td>AI Workforce Scheduling SaaS</td></tr>
-<tr><td>Stage</td><td>🔨 MVP → Beta</td></tr>
-<tr><td>Link</td><td><a href="https://shiftmate-1.onrender.com">shiftmate-1.onrender.com ↗</a></td></tr>
-</table>
+<sub>MediaPipe hand tracking → One-Euro filtering → Karplus-Strong string synthesis in a custom AudioWorklet. All client-side at 60 fps; the video never leaves the tab.</sub>
+
+<code>JavaScript</code> <code>MediaPipe</code> <code>Web Audio</code> <code>Tone.js</code> <code>WebGL</code>
 
 </td>
 <td width="50%" valign="top">
 
-<table width="100%">
-<tr><td colspan="2" style="border-left: 3px solid #38bdf8; padding-left: 8px;">
+**🧬 [DrugNexusAI](https://drugnexusai.app)** &nbsp; ![Production](https://img.shields.io/badge/●_PRODUCTION-a78bfa?style=flat-square&labelColor=0d1117)
 
-**🗓️ WAYA** &nbsp; ![Status](https://img.shields.io/badge/●_LIVE-38bdf8?style=flat-square&labelColor=0d1117)
+A production clinical decision support system for drug-interaction analysis. Real users, not a demo.
 
-</td></tr>
-<tr><td>Stack</td><td><code>React · AI/NLP · Socket.io</code></td></tr>
-<tr><td>Type</td><td>AI Group Scheduling — When Are You Available?</td></tr>
-<tr><td>Impact</td><td>47 min → ~2 min scheduling time</td></tr>
-<tr><td>Link</td><td><a href="https://waya.onrender.com/">waya.onrender.com ↗</a></td></tr>
-</table>
+<sub>Four-service architecture, a ChemBERTa-based interaction predictor, HIPAA-aware de-identification, and a context-aware chatbot with a 9+ model LLM fallback chain.</sub>
+
+<code>React</code> <code>FastAPI</code> <code>Node.js</code> <code>MongoDB</code> <code>AWS</code>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<table width="100%">
-<tr><td colspan="2" style="border-left: 3px solid #a78bfa; padding-left: 8px;">
+**🎯 [SOLSTRIKE](https://solstrike-eight.vercel.app)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
 
-**🧬 DrugNexusAI** &nbsp; ![Status](https://img.shields.io/badge/●_PRODUCTION-a78bfa?style=flat-square&labelColor=0d1117)
+A fast arena FPS in the browser — and the whole game is ~160 KB gzipped.
 
-</td></tr>
-<tr><td>Stack</td><td><code>FastAPI · Node.js · AWS · MongoDB</code></td></tr>
-<tr><td>Type</td><td>Clinical Decision Support System</td></tr>
-<tr><td>AI</td><td>ChemBERTa DDI · 9+ LLM fallbacks</td></tr>
-<tr><td>Link</td><td><a href="https://drugnexusai.app">drugnexusai.app ↗</a></td></tr>
-</table>
+<sub>No asset files: every model, map and sound is generated at runtime. Custom AABB collide-and-slide movement, A* bots, and an optional head-pose aiming mode.</sub>
+
+<code>Three.js</code> <code>Vite</code> <code>WebAudio</code> <code>MediaPipe</code>
 
 </td>
 <td width="50%" valign="top">
 
-<table width="100%">
-<tr><td colspan="2" style="border-left: 3px solid #6E56CF; padding-left: 8px;">
+**📖 [LORESCAPE](https://github.com/SIDDHANTH-THAKURI/LORESCAPE)** &nbsp; ![Open Source](https://img.shields.io/badge/●_OPEN_SOURCE-38bdf8?style=flat-square&labelColor=0d1117)
 
-**💡 More Projects** &nbsp; ![Status](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
+Upload a book, then walk around inside it.
 
-</td></tr>
-<tr><td>AlgoViz</td><td><a href="https://algo-viz-pi.vercel.app/">algo-viz-pi.vercel.app ↗</a></td></tr>
-<tr><td>Portfolio</td><td><a href="https://siddhanththakuri.com/">siddhanththakuri.com ↗</a></td></tr>
-<tr><td>Focus App</td><td><a href="https://demon-slayer-focus.vercel.app/">demon-slayer-focus ↗</a></td></tr>
-<tr><td>All Repos</td><td><a href="https://github.com/SIDDHANTH-THAKURI">github.com/SIDDHANTH-THAKURI ↗</a></td></tr>
-</table>
+<sub>Segments a text into ~50 scenes, generates explorable low-poly worlds, and gives characters streaming dialogue with memory in ChromaDB. Every ML layer degrades gracefully.</sub>
+
+<code>React</code> <code>Three.js</code> <code>FastAPI</code> <code>Claude API</code> <code>ChromaDB</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎙️ [InterviewIQ](https://interview-iq-smoky.vercel.app)** &nbsp; ![Live](https://img.shields.io/badge/●_LIVE-22c55e?style=flat-square&labelColor=0d1117)
+
+A mock interview with an AI that listens, looks, and adapts.
+
+<sub>Streaming speech in both directions with sentence-level TTS so there's no dead air, amplitude-driven lip sync, periodic webcam analysis, and a scored report at the end.</sub>
+
+<code>Next.js</code> <code>Claude API</code> <code>Deepgram</code> <code>ElevenLabs</code> <code>WebSockets</code>
+
+</td>
+<td width="50%" valign="top">
+
+**☕ [BrewDeck](https://github.com/SIDDHANTH-THAKURI/BrewDeck)** &nbsp; ![Open Source](https://img.shields.io/badge/●_OPEN_SOURCE-38bdf8?style=flat-square&labelColor=0d1117)
+
+Drive Claude Code from your phone — or from an actual phone call.
+
+<sub>A PIN-gated PWA streaming build output to your handset while the work runs on your PC. Call it, and Twilio + Deepgram + ElevenLabs route you in, with hooks blocking anything destructive.</sub>
+
+<code>Node.js</code> <code>WebSocket</code> <code>Twilio</code> <code>Deepgram</code> <code>PWA</code>
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<details>
+<summary><b>📦 Also shipped — 8 more</b></summary>
+
+<br/>
+
+| Project | What it is | Link |
+|---|---|---|
+| **Aether** | Gesture-driven WebGL experiments — throw fireballs with your hands | [live ↗](https://aether-gamma-eight.vercel.app) |
+| **WAYA** | AI group scheduling with real-time chat, polls and a mobile app | [live ↗](https://waya.onrender.com/) |
+| **ShiftMate** | AI rostering with sick-day cover calls, dashboards and credit billing | [live ↗](https://shiftmate-1.onrender.com/) |
+| **Job Hunter** | Scores job listings against a real profile and writes the tailored resume | [repo ↗](https://github.com/SIDDHANTH-THAKURI/Job-Hunter) |
+| **HireReady** | Paste a job description, get a tailored resume in 30 seconds | [live ↗](http://hirereadyai.app/) |
+| **AlgoViz** | Sorting and pathfinding algorithms, visualised step by step | [live ↗](https://algo-viz-pi.vercel.app) |
+| **Demon Slayer Focus** | A Pomodoro timer set inside the world of Demon Slayer | [live ↗](https://demon-slayer-focus.vercel.app) |
+| **Escape Velocity** | A door-choice game inspired by Takeshi's Castle — PC & Android | [itch.io ↗](https://team-aero.itch.io/escape-velocity) |
+
+</details>
+
+<img src="./divider.svg" width="100%"/>
+
+## ✈️ The Hangar
+
+I trained as an aeronautical engineer before I wrote software for a living, so my portfolio has a hidden page where the old maths gets to play:
+
+- **Wind tunnel** — real potential flow around a Joukowski aerofoil. Lift comes from circulation, not a lookup table. Pitch it until it stalls.
+- **Ascent to orbit** — a two-stage launch integrating the rocket equation, drag and gravity. Throttle through max-Q or the airframe lets go; the verdict is the real conic from your final state vector.
+- **Paper glide** — thread fourteen rings, one per shipped project.
+
+<div align="center">
+
+<a href="https://siddhanththakuri.com/hangar"><img src="https://img.shields.io/badge/Enter_the_Hangar-→-d97706?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
@@ -113,26 +157,36 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,js,ts,react,nodejs,dotnet,fastapi,express&theme=dark&perline=9)](https://skillicons.dev)
+[![Languages & frameworks](https://skillicons.dev/icons?i=ts,py,js,cs,react,nextjs,nodejs,express,fastapi,dotnet&theme=dark&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,docker,azure,git,vscode,linux,aws,vercel&theme=dark&perline=9)](https://skillicons.dev)
+[![Data, cloud & tooling](https://skillicons.dev/icons?i=postgres,supabase,mongodb,docker,aws,azure,cloudflare,vercel,threejs,git&theme=dark&perline=10)](https://skillicons.dev)
+
+<sub><b>AI & realtime:</b> Claude API · Claude Code · RAG · ChromaDB · MediaPipe · Web Audio · Deepgram · ElevenLabs</sub><br/>
+<sub><b>Integrations:</b> Stripe · Twilio · Resend · Xero · CometChat · Zapier</sub>
 
 </div>
 
 <img src="./divider.svg" width="100%"/>
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### 💻 Software Developer — Accenture *(2021–2023)*
+### 🏗️ Software Engineer — DBM, Discount Building Material *(Jun 2026 – Present)*
 
 | | |
 |---|---|
-| 🔷 | Delivered enterprise-scale apps using **C#, ASP.NET Core, React.js** on Azure |
-| 🔷 | Optimised MS SQL Server — reduced query times and improved responsiveness |
-| 🔷 | Designed and integrated REST APIs to automate data exchange across systems |
-| 🔷 | 120+ code reviews in Agile/SCRUM teams — reduced defects by **18%** |
-| 🔷 | Supported Azure deployments, streamlining releases and minimising downtime |
-| 🏆 | **Unsung Hero Award (2022)** — recognised for outstanding contribution |
+| 🔷 | Build and maintain production **B2B portals** and internal business systems, end to end |
+| 🔷 | Full-stack delivery on **React, TypeScript, Node.js and Supabase** |
+| 🔷 | Integrate **Stripe, Twilio, Resend, Xero and Cloudinary** into core business workflows |
+| 🔷 | Replace manual operational processes with **AI-assisted automation** |
+
+### 💻 Software Engineer — Accenture *(2021 – 2023)*
+
+| | |
+|---|---|
+| 🔷 | Delivered enterprise applications in **C#, ASP.NET Core and SQL Server** on Azure |
+| 🔷 | **120+ code reviews**, contributing to an **18% reduction** in defect rates |
+| 🔷 | Supported frontend work in React and ASP.NET MVC beyond the backend role |
+| 🏆 | **Unsung Hero Award (2022)** — hired one level above standard graduate entry |
 
 <img src="./divider.svg" width="100%"/>
 
@@ -165,8 +219,6 @@ open_to:    Developer, ML Engineer, Full-Stack roles in Australia
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2028%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2056%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -228,30 +280,6 @@ brewdeck-call-scratch    6 mins              █░░░░░░░░░░�
 Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 20 mins (92.09%)
-
-✍️ 3,111 lines written by AI, 4 lines written by hand (99.87% AI-written)
-
-🔤 5,790,325 Input Tokens, 391,150 Output Tokens
-
-💵 $90.20 Estimated AI Cost This Week
-
-🧠 73 AI Sessions, 149 AI Prompts
-
-Opus                     2,328 lines         ██████████████████░░░░░░░   72.46 % 
-Sonnet                   885 lines           ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📝 Concise Prompter — average 475 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.43% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -310,35 +338,37 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 | | | |
 |---|---|---|
-| 🎓 | **QIBA Professional Year Program (IT)** | Jan 2026 – Present |
-| | Government-accredited 44-week ICT program — Australian workplace training + industry internship | |
-| 🎓 | **MSc Computer Science** *(Machine Learning and Big Data)* — University of Wollongong | 2023 – 2025 |
-| 🎓 | **BEng Aeronautical Engineering** — MLR Institute of Technology, India | 2017 – 2021 |
-| 📜 | **Microsoft Certified: Security, Compliance and Identity Fundamentals (SC-900)** | |
+| 🎓 | **MSc Computer Science** *(Machine Learning & Big Data)* — University of Wollongong · Distinction, WAM 77.9 | 2023 – 2025 |
+| 🎓 | **BEng Aeronautical Engineering** — MLR Institute of Technology, India · published UAV design research | 2017 – 2021 |
+| 🎓 | **ACS Professional Year Program (ICT)** — QIBA, Sydney | Jan – Sep 2026 |
+| 📜 | **Microsoft Certified: Security, Compliance & Identity Fundamentals (SC-900)** | |
+| 📜 | **Python Programming & Computational Thinking** — NPTEL, IIT Ropar | 2020 |
 | 📜 | **Python Crash Course** — Google / Coursera | |
+| 🪪 | **Australian Computer Society** — Associate Member | |
 
 <img src="./divider.svg" width="100%"/>
 
 ## 🏅 Achievements
 
-- 🥇 **Accenture Unsung Hero Award (2022)** — recognised for outstanding team contribution
-- 📜 **Microsoft Certified: SC-900** — Security, Compliance and Identity Fundamentals
-- 🎯 **CodinGame Spring Challenge 2025** — Global competitive programming participant
-- 📜 **Python Crash Course** — Google / Coursera
+- 🥇 **Accenture Unsung Hero Award (2022)** — recognised for outstanding contribution to delivery
+- 🎓 **Academic Excellence Scholarship** — University of Wollongong
+- 🎯 **CodinGame Spring Challenge 2025** — global competitive programming participant
+- 🧩 **280+ LeetCode problems** solved
 
 <img src="./divider.svg" width="100%"/>
 
 ## ⚡ Fun Facts
 
-🚀 Built my first deep learning model on a potato laptop 🥔💻
-✈️ Aviation enthusiast — Bachelor's in Aeronautical Engineering before pivoting to software
+✈️ Studied aircraft before software — and built a working wind tunnel into my portfolio to prove the degree wasn't wasted<br/>
+🚀 Built my first deep learning model on a potato laptop 🥔💻<br/>
+🎸 Wrote a Karplus-Strong string synthesiser so I could play guitar without owning one<br/>
 🤖 Can explain Transformers (the ML ones… and the robots if you insist)
 
 <img src="./divider.svg" width="100%"/>
 
 <div align="center">
 
-*"Turning ideas into code, and code into impact."*
+*"I build things from problems I've actually lived."*
 
 <img src="./wave.svg" width="100%" alt="wave"/>
 
