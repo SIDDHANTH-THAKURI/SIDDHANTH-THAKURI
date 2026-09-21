@@ -224,32 +224,32 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2026
+> 🏆 145 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-🌆 Daytime                102 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-🌃 Evening                175 commits         ███████████░░░░░░░░░░░░░░   43.97 % 
-🌙 Night                  81 commits          █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+🌞 Morning                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+🌆 Daytime                103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+🌃 Evening                175 commits         ███████████░░░░░░░░░░░░░░   43.75 % 
+🌙 Night                  81 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Monday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Sunday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 
 
@@ -259,35 +259,34 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.18 % 
-TypeScript               2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+JavaScript               2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.07 % 
+TypeScript               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Other                    56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Bash                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 2 mins       ██████████████████████░░░   89.29 % 
-VS Code                  1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Claude Code              6 hrs 3 mins        ██████████████████████░░░   86.60 % 
+VS Code                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 
 🐱‍💻 Projects: 
-brewdeck                 6 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.50 % 
-groupstats               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-ai-portfolio             1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-ppttt                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-harsha's project         1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+brewdeck                 3 hrs 34 mins       █████████████░░░░░░░░░░░░   51.06 % 
+groupstats               1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+harsha's project         1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+brewdeck-call-scratch    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 💻 Operating System: 
-Windows                  14 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ████████████░░░░░░░░░░░░░   46.15 % 
-JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -297,7 +296,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 01:45:18 UTC
+ Last Updated on 21/09/2026 01:46:25 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
