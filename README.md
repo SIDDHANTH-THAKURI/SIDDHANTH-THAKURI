@@ -246,8 +246,8 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 Monday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Thursday                 95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Friday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 Sunday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
@@ -259,24 +259,24 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   31.55 % 
-TypeScript               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Other                    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Bash                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+TypeScript               1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.03 % 
+Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Bash                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+JavaScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 28 mins       ██████████████████████░░░   88.06 % 
-VS Code                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Claude Code              3 hrs 23 mins       ██████████████████████░░░   89.40 % 
+VS Code                  24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 
 🐱‍💻 Projects: 
-brewdeck                 2 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
-groupstats               1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   31.56 % 
-harsha's project         1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-brewdeck-call-scratch    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+groupstats               1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   39.06 % 
+brewdeck                 1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+harsha's project         1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+brewdeck-call-scratch    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 💻 Operating System: 
-Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -296,7 +296,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 01:42:29 UTC
+ Last Updated on 25/09/2026 01:59:48 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
