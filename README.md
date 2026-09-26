@@ -247,8 +247,8 @@ Monday                   40 commits          ██░░░░░░░░░�
 Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Friday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Saturday                 80 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 Sunday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 
@@ -259,24 +259,20 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.03 % 
-Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Bash                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-JavaScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JavaScript               21 mins             ██████████████████░░░░░░░   71.63 % 
+Other                    8 mins              ███████░░░░░░░░░░░░░░░░░░   28.37 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 23 mins       ██████████████████████░░░   89.40 % 
-VS Code                  24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Claude Code              26 mins             ███████████████████████░░   90.82 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 🐱‍💻 Projects: 
-groupstats               1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   39.06 % 
-brewdeck                 1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-harsha's project         1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-brewdeck-call-scratch    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+brewdeck                 21 mins             ██████████████████░░░░░░░   71.63 % 
+brewdeck-call-scratch    7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+groupstats               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 💻 Operating System: 
-Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -296,7 +292,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 01:59:48 UTC
+ Last Updated on 26/09/2026 02:05:05 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
