@@ -224,7 +224,7 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2026
+> 🏆 146 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -235,21 +235,21 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-🌆 Daytime                103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-🌃 Evening                175 commits         ███████████░░░░░░░░░░░░░░   43.75 % 
-🌙 Night                  81 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+🌞 Morning                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+🌆 Daytime                103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+🌃 Evening                175 commits         ███████████░░░░░░░░░░░░░░   43.64 % 
+🌙 Night                  82 commits          █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Sunday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 ```
 
 
@@ -259,20 +259,21 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               21 mins             ██████████████████░░░░░░░   71.63 % 
-Other                    8 mins              ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+JavaScript               21 mins             █████████████░░░░░░░░░░░░   50.86 % 
+Other                    20 mins             ████████████░░░░░░░░░░░░░   49.14 % 
 
 🔥 Editors: 
-Claude Code              26 mins             ███████████████████████░░   90.82 % 
-VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Claude Code              38 mins             ███████████████████████░░   93.48 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 🐱‍💻 Projects: 
-brewdeck                 21 mins             ██████████████████░░░░░░░   71.63 % 
-brewdeck-call-scratch    7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-groupstats               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+brewdeck                 21 mins             █████████████░░░░░░░░░░░░   50.86 % 
+qibaimpdocs              12 mins             ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+brewdeck-call-scratch    7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+groupstats               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -292,7 +293,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 01:57:03 UTC
+ Last Updated on 28/09/2026 02:02:39 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
