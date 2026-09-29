@@ -243,8 +243,8 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Monday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Tuesday                  67 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
 Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
@@ -259,21 +259,25 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               21 mins             █████████████░░░░░░░░░░░░   50.86 % 
-Other                    20 mins             ████████████░░░░░░░░░░░░░   49.14 % 
+Other                    33 mins             ██████████░░░░░░░░░░░░░░░   39.38 % 
+HTML                     24 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+JavaScript               23 mins             ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Claude Code              38 mins             ███████████████████████░░   93.48 % 
-VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Claude Code              1 hr 22 mins        ████████████████████████░   96.76 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🐱‍💻 Projects: 
-brewdeck                 21 mins             █████████████░░░░░░░░░░░░   50.86 % 
-qibaimpdocs              12 mins             ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-brewdeck-call-scratch    7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-groupstats               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+brewdeck                 41 mins             ████████████░░░░░░░░░░░░░   47.95 % 
+looktest                 21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+qibaimpdocs              12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+brewdeck-call-scratch    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+AfterLife                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -293,7 +297,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 02:02:39 UTC
+ Last Updated on 29/09/2026 02:49:15 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
