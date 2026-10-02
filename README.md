@@ -218,7 +218,7 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -246,8 +246,8 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 Monday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 Wednesday                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Thursday                 95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Friday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
 Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
@@ -297,7 +297,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 02:32:27 UTC
+ Last Updated on 02/10/2026 02:38:11 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
