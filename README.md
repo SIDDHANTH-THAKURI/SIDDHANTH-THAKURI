@@ -247,8 +247,8 @@ Monday                   41 commits          ███░░░░░░░░�
 Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 Wednesday                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Friday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 80 commits          █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
 Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
 
@@ -259,25 +259,25 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               1 hr 59 mins        ████████████░░░░░░░░░░░░░   48.56 % 
-Markdown                 55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Other                    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JavaScript               1 hr 38 mins        ███████████░░░░░░░░░░░░░░   44.14 % 
+Markdown                 1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+Other                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 3 mins        █████████████████████████   98.87 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Claude Code              3 hrs 42 mins       █████████████████████████   99.97 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-brewdeck                 3 hrs 11 mins       ███████████████████░░░░░░   77.86 % 
-looktest                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-qibaimpdocs              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Siddhanth_PortfolioV2    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-brewdeck-call-scratch    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+brewdeck                 2 hrs 56 mins       ████████████████████░░░░░   79.31 % 
+looktest                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+qibaimpdocs              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Siddhanth_PortfolioV2    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+AfterLife                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Windows                  4 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -297,7 +297,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 02:38:11 UTC
+ Last Updated on 03/10/2026 02:25:09 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
