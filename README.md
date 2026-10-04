@@ -235,21 +235,21 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-🌆 Daytime                103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-🌃 Evening                175 commits         ███████████░░░░░░░░░░░░░░   43.53 % 
-🌙 Night                  83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+🌞 Morning                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+🌆 Daytime                106 commits         ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+🌃 Evening                176 commits         ███████████░░░░░░░░░░░░░░   43.03 % 
+🌙 Night                  86 commits          █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Wednesday                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Friday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Saturday                 80 commits          █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Monday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Tuesday                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Wednesday                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Thursday                 94 commits          ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Friday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Saturday                 80 commits          █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 ```
 
 
@@ -259,35 +259,35 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               1 hr 38 mins        ███████████░░░░░░░░░░░░░░   44.14 % 
-Markdown                 1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-Other                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Markdown                 1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   33.24 % 
+JavaScript               1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   30.94 % 
+Python                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Other                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+HTML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 42 mins       █████████████████████████   99.97 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Claude Code              5 hrs 14 mins       █████████████████████████   98.79 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🐱‍💻 Projects: 
-brewdeck                 2 hrs 56 mins       ████████████████████░░░░░   79.31 % 
-looktest                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-qibaimpdocs              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Siddhanth_PortfolioV2    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-AfterLife                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+brewdeck                 3 hrs 1 min         ██████████████░░░░░░░░░░░   57.05 % 
+VidoSuperIntelligenceEdit1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+looktest                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+qibaimpdocs              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Siddhanth_PortfolioV2    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -297,7 +297,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 02:25:09 UTC
+ Last Updated on 04/10/2026 02:54:59 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
