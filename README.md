@@ -218,7 +218,7 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -235,21 +235,21 @@ I trained as an aeronautical engineer before I wrote software for a living, so m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-🌆 Daytime                127 commits         ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-🌃 Evening                201 commits         ██████████░░░░░░░░░░░░░░░   38.80 % 
-🌙 Night                  134 commits         ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+🌆 Daytime                129 commits         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+🌃 Evening                201 commits         ██████████░░░░░░░░░░░░░░░   38.36 % 
+🌙 Night                  138 commits         ███████░░░░░░░░░░░░░░░░░░   26.34 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Wednesday                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Thursday                 108 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Friday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Saturday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Sunday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Monday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Tuesday                  85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Wednesday                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Thursday                 108 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Friday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Saturday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Sunday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 ```
 
 
@@ -259,25 +259,25 @@ Sunday                   55 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   20 hrs 50 mins      █████████████░░░░░░░░░░░░   53.02 % 
-Markdown                 5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Other                    3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-JavaScript               3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-TypeScript               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Python                   18 hrs 37 mins      █████████████░░░░░░░░░░░░   53.02 % 
+Markdown                 5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+JavaScript               3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Other                    2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+TypeScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 Editors: 
-Claude Code              38 hrs 27 mins      ████████████████████████░   97.88 % 
-VS Code                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Claude Code              34 hrs 18 mins      ████████████████████████░   97.68 % 
+VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🐱‍💻 Projects: 
-VidoSuperIntelligenceEdit30 hrs 8 mins       ███████████████████░░░░░░   76.70 % 
-brewdeck                 5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-repo                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-tools                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-shots                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+VidoSuperIntelligenceEdit28 hrs 15 mins      ████████████████████░░░░░   80.47 % 
+brewdeck                 3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+repo                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+tools                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+shots                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  39 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -297,7 +297,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SIDDHANTH-THAKURI/SIDDHANTH-THAKURI/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 01:54:00 UTC
+ Last Updated on 20/10/2026 02:12:21 UTC
 <!--END_SECTION:waka-->
 
 <img src="./divider.svg" width="100%"/>
